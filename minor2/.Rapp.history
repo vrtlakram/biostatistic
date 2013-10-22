@@ -1,0 +1,51 @@
+demo()
+help.start()
+cd
+help()
+library(list)
+library()
+data()
+cd
+help()
+setwd
+setwd(user/akram)
+setwd(/Users/akram/akram.github.com)
+setwd(Users/akram/akram.github.com)
+setwd (/Users/akram/akram.github.com)
+setwd(/Users/akram/akram.github.com/R/)
+setwd
+setwd (Users/akram/akram.github.com/R/)
+ls()
+quit()
+setwd(~/Users/akram/akram.github.com)
+setwd(~Users/akram/akram.github.com)
+load(".RData")
+save.image()
+setwd(Users/akram/akram.github.com/R/)
+setwd (\Users\akram\akram.github.com)
+setwd
+setwd(\Users\)
+setwd (Users\)
+setwd(Users/)
+clear()
+clear
+getwd()
+setwd("Users/akram/akram.github.com/r/")
+getwd()
+setwd("/akram.github.com")
+getwd
+getwd()
+setwd
+setwd(/Users/akram/)
+setwd("Users/akra/")
+setwd
+setwd("~/Users/akram/akram.github.com/R/")
+setwd("~/Desktop/Current Semester")
+getwd()
+setwd("/akram.github.com/R/")
+matrix(1:10)
+setwd("~/Users/akram/akram.github.com/R/")
+getwd()
+setwd("Users/akram/github/r/")
+setwd("Users/akram/github/r")
+load(".RData")
